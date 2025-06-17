@@ -434,23 +434,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rolan\\.nuget\\packages\\": {},
+    "C:\\Users\\jimki\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rolan\\source\\repos\\react-fundamentals\\HousesApi\\HousesApi\\HousesApi.csproj",
+      "projectUniqueName": "C:\\Development\\react-fundamentals\\src\\HousesApi\\HousesApi\\HousesApi.csproj",
       "projectName": "HousesApi",
-      "projectPath": "C:\\Users\\rolan\\source\\repos\\react-fundamentals\\HousesApi\\HousesApi\\HousesApi.csproj",
-      "packagesPath": "C:\\Users\\rolan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rolan\\source\\repos\\react-fundamentals\\HousesApi\\HousesApi\\obj\\",
+      "projectPath": "C:\\Development\\react-fundamentals\\src\\HousesApi\\HousesApi\\HousesApi.csproj",
+      "packagesPath": "C:\\Users\\jimki\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\react-fundamentals\\src\\HousesApi\\HousesApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rolan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jimki\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -476,9 +476,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -508,7 +508,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
